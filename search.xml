@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2023/02/13/text/"/>
+      <url>/2023/02/13/text/</url>
+      
+        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/02/13/Hello-World/"/>
+      <url>/2023/02/13/Hello-World/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
