@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -23,6 +29,12 @@
       
         <content type="html"><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> 趣闻 </category>
+          
+      </categories>
       
       
     </entry>
