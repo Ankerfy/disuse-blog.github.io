@@ -53,3 +53,4 @@ var music = {
   
   // 初始化
   music.changeMusicBg(false);
+  
