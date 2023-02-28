@@ -1,11 +1,11 @@
 /* 滚动条样式 */
 ::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 2px;
   }
   
   ::-webkit-scrollbar-track {
-    background-color: rgba(73, 177, 245, 0.2);
+    background-color: rgba(246, 249, 252, 0.2);
     border-radius: 2em;
   }
   
@@ -13,12 +13,7 @@
     background-color: var(--theme-color);
     background-image: -webkit-linear-gradient(
       45deg,
-      rgba(255, 255, 255, 0.4) 25%,
-      transparent 25%,
-      transparent 50%,
-      rgba(255, 255, 255, 0.4) 50%,
-      rgba(255, 255, 255, 0.4) 75%,
-      transparent 75%,
+      rgba(44, 42, 42, 0.4) 100%,
       transparent
     );
     border-radius: 2em;
@@ -29,6 +24,6 @@
   }
   
   ::-moz-selection {
-    color: #fff;
+    color: rgb(66, 64, 64);
     background-color: var(--theme-color);
   }
